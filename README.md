@@ -23,6 +23,9 @@ https://vimeo.com/291588126
 ### Test-driven reactive programming
 https://talk.objc.io/episodes/S01E53-test-driven-reactive-programming
 
+### MVVM
+https://medium.com/flawless-app-stories/mvvm-in-ios-swift-aa1448a66fb4
+
 # Training Projects
 
 ### Kwartracker
