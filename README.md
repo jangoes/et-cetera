@@ -20,6 +20,9 @@ https://swiftwithmajid.com/2019/09/18/redux-like-state-container-in-swiftui/
 ### World
 https://vimeo.com/291588126
 
+### Test-driven reactive programming
+https://talk.objc.io/episodes/S01E53-test-driven-reactive-programming
+
 # Training Projects
 
 ### Kwartracker
