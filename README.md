@@ -13,3 +13,29 @@ https://www.notion.so/Setup-new-terminal-a79239df5f0e4d889e8e2ebc49e044b0#019f75
 
 ### Network Requests and REST APIs in iOS with Swift (Protocol-Oriented Approach)
 https://matteomanferdini.com/network-requests.rest-apis-ios-swift/
+
+### SwiftUI Redux Architecture
+https://swiftwithmajid.com/2019/09/18/redux-like-state-container-in-swiftui/
+
+### World
+https://vimeo.com/291588126
+
+# Training Projects
+
+### Kwartracker
+- iOS - https://github.com/jaimejazarenoiii/kwartracker-ios
+
+### Jangoes
+- Server / API - https://git.heroku.com/jangoes-project.git
+- Web Client / UI - https://github.com/jangoes/jangoes-web-client
+- iOS - https://github.com/jangoes/jangoes-ios
+
+### Simple Todo App
+- iOS - https://github.com/jangoes/simple-todo-ios
+
+# Exams
+### Messaging App
+- iOS - https://github.com/jangoes/MessagingApp
+
+### Flickr App
+- iOS - https://github.com/jangoes/Flickr-iOS
