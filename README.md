@@ -29,6 +29,7 @@ https://vimeo.com/291588126
 - Server / API - https://git.heroku.com/jangoes-project.git
 - Web Client / UI - https://github.com/jangoes/jangoes-web-client
 - iOS - https://github.com/jangoes/jangoes-ios
+- Design - https://xd.adobe.com/view/88019197-b52c-4c03-a717-e10207152dd7-dd52/specs/
 
 ### Simple Todo App
 - iOS - https://github.com/jangoes/simple-todo-ios
