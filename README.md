@@ -48,7 +48,7 @@ https://medium.com/flawless-app-stories/mvvm-in-ios-swift-aa1448a66fb4
 ### Flickr App
 - iOS - https://github.com/jangoes/Flickr-iOS
 
-# Handled Projects
+# Handled Projects (App Store published)
 - Machevara (マシェバラ) - https://mache.tv
 - MacheTalk (マシェLIVE（マシェライブ）) - https://machetalk.jp/
 - NativeCamp - https://nativecamp.net/
