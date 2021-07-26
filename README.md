@@ -41,6 +41,9 @@ https://medium.com/flawless-app-stories/mvvm-in-ios-swift-aa1448a66fb4
 ### Simple Todo App
 - iOS - https://github.com/jangoes/simple-todo-ios
 
+### Network request using Combine framework
+https://github.com/jangoes/swift-playground
+
 # Exams
 ### Messaging App
 - iOS - https://github.com/jangoes/MessagingApp
