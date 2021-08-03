@@ -26,6 +26,9 @@ https://talk.objc.io/episodes/S01E53-test-driven-reactive-programming
 ### MVVM
 https://medium.com/flawless-app-stories/mvvm-in-ios-swift-aa1448a66fb4
 
+### Image Resize
+https://spark.adobe.com/tools/image-resize/
+
 # Training Projects
 
 ### Kwartracker
