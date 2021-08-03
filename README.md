@@ -54,7 +54,7 @@ https://spark.adobe.com/tools/image-resize/
 ### Flickr App
 - iOS - https://github.com/jangoes/Flickr-iOS
 
-# Handled Projects (App Store published)
+# Contributed Projects (App Store published)
 - Machevara (マシェバラ) - https://mache.tv
 - MacheTalk (マシェLIVE（マシェライブ）) - https://machetalk.jp/
 - NativeCamp - https://nativecamp.net/
