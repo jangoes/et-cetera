@@ -32,6 +32,9 @@ https://medium.com/flawless-app-stories/mvvm-in-ios-swift-aa1448a66fb4
 ### Image Resize
 https://spark.adobe.com/tools/image-resize/
 
+### Collection View Compositional Layouts
+https://www.raywenderlich.com/5436806-modern-collection-views-with-compositional-layouts#toc-anchor-001
+
 # Training Projects
 
 ### Kwartracker
