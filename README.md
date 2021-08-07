@@ -60,7 +60,7 @@ https://www.raywenderlich.com/5436806-modern-collection-views-with-compositional
 ### Flickr App
 - iOS - https://github.com/jangoes/Flickr-iOS
 
-# Contributed Projects (App Store published)
+# Projects undertaken
 - Machevara (マシェバラ) - https://mache.tv
 - MacheTalk (マシェLIVE（マシェライブ）) - https://machetalk.jp/
 - NativeCamp - https://nativecamp.net/
