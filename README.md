@@ -53,7 +53,7 @@ https://www.raywenderlich.com/5436806-modern-collection-views-with-compositional
 ### Network request using Combine framework
 - iOS Playground - https://github.com/jangoes/swift-playground
 
-# Exams
+# App Exams
 ### Messaging App
 - iOS - https://github.com/jangoes/MessagingApp
 
