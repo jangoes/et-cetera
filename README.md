@@ -2,6 +2,9 @@
 ### macOS-bootstrap 
 https://github.com/bignerdranch/macOS-bootstrap#customize-in-bootstraplocal-and-brewfile
 
+### Powerline fonts
+https://github.com/powerline/fonts - preferred terminal font: Ubuntu Mono derivative Powerline (12)
+
 ### MarkDown Cheatsheet
 https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
 
